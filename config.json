@@ -11,12 +11,12 @@
         "musiques": "/Musique",
         "autres": "/Documents/Autre"
     }],
-    "ext_text": ["txt", "odt", "docx", "doc", "sh3d", "ods", "odg", "odb", "odp", "pdf"],
-    "ext_image": ["jpeg", "jpg", "png", "psd", "gif", "tif", "svg"],
-    "ext_video": ["mp4", "avi", "mov", "flv", "mkv", "wmv"],
-    "ext_logiciel": ["msi", "exe", "bat", "AppImage"],
-    "ext_archive": ["zip", "rar", "iso"],
-    "ext_musique": ["flac", "wav", "mp3", "mscz"],
+    "ext_text": ["txt", "odt", "docx", "doc", "sh3d", "ods", "odg", "odb", "odp", "pdf", "pages", "wpd", "tex", "log", "markdown", "md", "csv", "json", "xml", "html", "rtf"],
+    "ext_image": ["jpeg", "jpg", "png", "psd", "gif", "tif", "svg", "bmp", "ico", "raw", "webp", "exif", "ai", "eps", "rif", "riff"],
+    "ext_video": ["mp4", "avi", "mov", "flv", "mkv", "wmv", "wmv", "mpeg", "mpg", "m4v", "webm", "3gp", "rmvb", "vob", "ts", "divx", "ogv"],
+    "ext_logiciel": ["msi", "exe", "bat", "AppImage", "dmg", "app", "msi", "deb", "rpm", "jar", "apk", "run", "sh", "bin", "tar"],
+    "ext_archive": ["zip", "rar", "iso", "7z", "gz", "bz2", "xz", "z", "arj", "lzh", "cab", "nrg", "pkg"],
+    "ext_musique": ["flac", "wav", "mp3", "mscz", "aac", "wma", "ogg", "m4a", "ac3", "mid", "midi", "amr", "ape", "alac", "pcm", "au"],
     "msg": [{
         "success": "Votre dossier est bien rangé :D ",
         "whatdir": "Dans quel dossier voulez vous trier ?",
