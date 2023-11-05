@@ -5,7 +5,7 @@
 [Download latest releases](https://github.com/Marvideo2009/file-sorter/releases)
 And double click on it
 
-### For compiling on Linux:
+### For build on Linux:
 Install the compiler :
 ```sh
 pip install auto-py-to-exe
@@ -22,3 +22,8 @@ and use auto-py-to-exe for compile :
 ```sh
 pyinstaller --noconfirm --onefile --windowed --name "Fil-sorter"  "/home/{Username}/path/to/file.py"
 ```
+OR with GUI
+```sh
+auto-py-to-exe
+```
+And go to Settings/Configuration and Import a config file then choose the config-to-compile.json
