@@ -5,7 +5,7 @@
 [Download latest releases](https://github.com/Marvideo2009/file-sorter/releases)
 And double click on it
 
-### For build on Unix:
+### For compiling on Linux:
 Install the compiler :
 ```sh
 pip install auto-py-to-exe
