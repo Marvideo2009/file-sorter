@@ -1,0 +1,27 @@
+{
+    "version": "trieur-de-fichier-v0.0.1",
+    "title": "Trieur de fichiers",
+    "author": "Marvideo",
+    "dir_abslink": [{
+        "textes": "/Documents",
+        "images": "/Images",
+        "videos": "/Videos",
+        "logiciels": "/Téléchargements",
+        "archives": "/Documents/Archive",
+        "musiques": "/Musique",
+        "autres": "/Documents/Autre"
+    }],
+    "ext_text": ["txt", "odt", "docx", "doc", "sh3d", "ods", "odg", "odb", "odp", "pdf"],
+    "ext_image": ["jpeg", "jpg", "png", "psd", "gif", "tif", "svg"],
+    "ext_video": ["mp4", "avi", "mov", "flv", "mkv", "wmv"],
+    "ext_logiciel": ["msi", "exe", "bat", "AppImage"],
+    "ext_archive": ["zip", "rar", "iso"],
+    "ext_musique": ["flac", "wav", "mp3", "mscz"],
+    "msg": [{
+        "success": "Votre dossier est bien rangé :D ",
+        "whatdir": "Dans quel dossier voulez vous trier ?",
+        "contentdir": "Voici le contenu du dossier %s :",
+        "verify": "Etes vous sûr de ranger le dossier %s ???",
+        "stopapp": "Le processus s'arrete."
+    }]
+}
